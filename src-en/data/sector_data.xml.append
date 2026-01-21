@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<FTL>
-
-<mod:findLike type="sectorDescription">
-	<mod-append:priorityEvent name="EG_MIRACLE_SEEKERS_STATION" min="1" max="1" priority="1" req="SEEKERS_SPAWN_CHECK" lvl="1"/>
-</mod:findLike>
-
-</FTL>
