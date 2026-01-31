@@ -31,4 +31,4 @@ msgstr "MIRACLE 9721 [!]"
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"eg_eatery\"]"
-msgstr "RESTAURANT [!]"
+msgstr "RESTAURATION [!]"
