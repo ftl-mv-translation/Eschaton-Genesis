@@ -23,7 +23,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_vakans\"]/powerEffect/buttonText"
-msgstr "SE SOUVENIR"
+msgstr "SOUVIENS-TOI"
 
 #: src-en/data/hyperspace.xml.append:355
 msgid ""
@@ -31,13 +31,13 @@ msgid ""
 "append:race[@name=\"unique_vakans\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 25s]\n"
-"\t\t\t\tAugmente la vitesse de réparation jusqu'à 15 fois pendant 10 secondes."
+"\t\t\t\tAugmente la vitesse de réparation jusqu'à 15x pendant 10 secondes."
 
 #: src-en/data/hyperspace.xml.append:385
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_white_clone\"]/powerEffect/buttonText"
-msgstr "IMP. NEURONALE"
+msgstr "IMP. NEURONAL"
 
 #: src-en/data/hyperspace.xml.append:386
 msgid ""
@@ -45,7 +45,7 @@ msgid ""
 "append:race[@name=\"unique_white_clone\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 20s]\n"
-"\t\t\t\tActivation de l'implant neuronal. Chaque membre de la Garde Blanche sur votre vaisseau et le vaisseau ennemi reçoit un multiplicateur de 2,2x aux dégâts en combat, à la vitesse, à la vitesse de réparation et à la vitesse de sabotage, ainsi qu'une régénération de 2 PV/s pendant 15 secondes."
+"\t\t\t\tActivation de l'implant neuronal. Chaque membre de la Garde Blanche sur votre vaisseau et le vaisseau ennemi reçoit un multiplicateur de 2,2x aux dégâts au combat, à la vitesse, à la vitesse de réparation et à la vitesse de sabotage, ainsi qu'une régénération de 2 PV/s pendant 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:954
 msgid ""
@@ -53,7 +53,7 @@ msgid ""
 "append:shipIcon[1]/tooltip"
 msgstr ""
 "COLONIE DE TERMITES :\n"
-"Les bio-vaisseaux vivants de termites, coléoptères, ont la capacité de réparer automatiquement leurs systèmes, de colmater les brèches et d'éteindre les incendies, compensant les défauts naturels des termites eux-mêmes. Ils ont également une armure de chitine solide, qui a 15 % de chances de nier les dégâts à la coque. Pour certaines raisons, seuls les représentants des races insectoïdes peuvent se déplacer librement parmi les coléoptères."
+"Les bio-vaisseaux vivants de termites et de scarabées ont la capacité de réparer automatiquement leurs systèmes, de colmater les brèches et d'éteindre les incendies, compensant ainsi les défauts naturels des termites eux-mêmes. Ils possèdent également une solide armure en chitine, qui a 15 % de chances d'annuler les dégâts à la coque. Pour certaines raisons, seuls les représentants des races insectoïdes peuvent se déplacer librement parmi les scarabées."
 
 #: src-en/data/hyperspace.xml.append:959
 msgid ""
@@ -61,7 +61,7 @@ msgid ""
 "append:shipIcon[2]/tooltip"
 msgstr ""
 "PROTECTEUR DES GARDIENS :\n"
-"La station des Chercheurs de Miracles est protégée de tout dommage externe par un bouclier puissant et presque impénétrable avec 120 points d'intégrité, qui augmente également la vitesse de recharge de ses boucliers réguliers de 150 %."
+"La station des Chercheurs de Miracles est protégée de tout dommage extérieur par un bouclier puissant et presque impénétrable de 120 points d'intégrité, qui augmente également la vitesse de recharge de ses boucliers réguliers de 150 %."
 
 #: src-en/data/hyperspace.xml.append:964
 msgid ""
@@ -69,7 +69,7 @@ msgid ""
 "append:shipIcon[3]/tooltip"
 msgstr ""
 "SALLE DES RÊVES :\n"
-"Les adeptes de l'Église de la Rêveuse de tous les Désirs prieront périodiquement leur déesse et demanderont son aide au combat. Leurs prières peuvent entraîner des dégâts mineurs à votre vaisseau ou des réparations à leur vaisseau, mais la Rêveuse n'acceptera leurs prières que 5 fois pendant cette bataille."
+"Les adeptes de l'Église du Rêve-Tout-Désiré prieront périodiquement leur déesse et lui demanderont son aide au combat. Leurs prières peuvent entraîner des dégâts mineurs pour votre vaisseau ou des réparations pour le leur, mais le Rêveur n'acceptera leurs prières que 5 fois au cours de cette bataille."
 
 #: src-en/data/hyperspace.xml.append:969
 msgid ""
@@ -77,7 +77,7 @@ msgid ""
 "append:shipIcon[4]/tooltip"
 msgstr ""
 "BLINDAGE IMPÉNÉTRABLE :\n"
-"L'armure du vaisseau de Robur a 20 % de chances d'absorber les dégâts à la coque et 50 % de chances d'absorber les dégâts aux systèmes. De plus, le vaisseau bénéficie d'un bonus de 10 % à la vitesse de recharge des armes."
+"L'armure du vaisseau de Robur a 20 % de chances d'absorber les dégâts à la coque et 50 % de chances d'absorber les dégâts aux systèmes. De plus, le vaisseau bénéficie d'un bonus de 10 % à la vitesse de rechargement des armes."
 
 #: src-en/data/hyperspace.xml.append:974
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "append:shipIcon[5]/tooltip"
 msgstr ""
 "ÉCLAT PRÉCIEUX : SUGILITE [ION]\n"
-"Attaquer cet ennemi avec plusieurs armes en même temps peut être dangereux : pour chaque coup porté à sa coque, il répondra avec un éclat, qui inflige 3 dégâts ioniques et 1 dégât à la coque. Cet ennemi a également 50 % de chances d'ignorer les dégâts ioniques."
+"Attaquer cet ennemi avec plusieurs armes simultanément peut s'avérer dangereux : pour chaque coup porté à sa coque, il répondra par un éclat, qui inflige 3 dégâts ioniques et 1 dégât à la coque. Cet ennemi a également 50 % de chances d'ignorer les dégâts ioniques."
 
 #: src-en/data/hyperspace.xml.append:979
 msgid ""
@@ -93,15 +93,15 @@ msgid ""
 "append:shipIcon[6]/tooltip"
 msgstr ""
 "ÉCLAT PRÉCIEUX : AIGUE-MARINE [BRÈCHE]\n"
-"Attaquer cet ennemi avec plusieurs armes en même temps peut être dangereux : pour chaque coup porté à sa coque, il répondra avec un éclat, qui inflige 4 dégâts à la coque, verrouille la pièce et garantit une brèche. Toutes les brèches sur le vaisseau ennemi sont réparées automatiquement."
+"Attaquer cet ennemi avec plusieurs armes simultanément peut s'avérer dangereux : pour chaque coup porté à sa coque, il répondra par un éclat, qui inflige 4 points de dégâts à la coque, verrouille la pièce et garantit une brèche. Toutes les brèches sur le vaisseau ennemi sont réparées automatiquement."
 
 #: src-en/data/hyperspace.xml.append:984
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[7]/tooltip"
 msgstr ""
-"ÉCLAT PRÉCIEUX : CARNÉLIEN [FEU]\n"
-"Attaquer cet ennemi avec plusieurs armes en même temps peut être dangereux : pour chaque coup porté à sa coque, il répondra avec un éclat, qui inflige 2 dégâts aux systèmes et 2 dégâts à la coque et déclenche à coup sûr un incendie dans la pièce. Sur le vaisseau de cet ennemi, tous les incendies sont éteints automatiquement."
+"ÉCLAT PRÉCIEUX : CARNÉLINE [FEU]\n"
+"Attaquer cet ennemi avec plusieurs armes simultanément peut s'avérer dangereux : pour chaque coup porté à sa coque, il répondra par un éclat, qui inflige 2 dégâts aux systèmes et 2 dégâts à la coque, avec la garantie de déclencher un incendie dans la pièce. Sur le vaisseau de cet ennemi, tous les incendies sont éteints automatiquement."
 
 #: src-en/data/hyperspace.xml.append:1143
 msgid ""
@@ -204,7 +204,7 @@ msgstr "Robur"
 #: src-en/data/hyperspace.xml.append:2214
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[1]/@text"
-msgstr "Révélations d'un Mercenaire"
+msgstr "Révélations d'un mercenaire"
 
 #: src-en/data/hyperspace.xml.append:2216
 msgid ""
@@ -226,7 +226,7 @@ msgstr "La Chaleur"
 #: src-en/data/hyperspace.xml.append:2225
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_THE_WARMTH\"]/description"
-msgstr "À celui qui a fait preuve de bonté et a su protéger les innocents"
+msgstr "À celui qui a fait preuve de bonté et a su protéger les innocents."
 
 #: src-en/data/hyperspace.xml.append:2232
 msgid ""
@@ -243,13 +243,13 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:2240
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_THANKS\"]/name"
-msgstr "\" Merci \""
+msgstr "\"Merci\""
 
 #: src-en/data/hyperspace.xml.append:2241
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_THANKS\"]/description"
 msgstr ""
-"À celui qui a fait preuve du plus haut degré d'appréciation - la gratitude."
+"À celui qui a montré le plus haut degré d'appréciation - la gratitude."
 
 #: src-en/data/hyperspace.xml.append:2248
 msgid ""
@@ -260,8 +260,8 @@ msgstr "Accord d'Alliance"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_ALLIANCE_AGREEMENT\"]/description"
 msgstr ""
-"À celui qui a traversé tous les cercles de l'enfer juridique et a démontré "
-"sa connaissance brillante dans un certain domaine."
+"À celui qui a traversé tous les cercles de l'enfer juridique et fait preuve "
+"de ses brillantes connaissances dans un domaine précis."
 
 #: src-en/data/hyperspace.xml.append:2256
 msgid ""
@@ -272,7 +272,7 @@ msgstr "Forme Neostar"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_NEOSTAR_FORM\"]/description"
 msgstr ""
-"À celui qui a arrêté l'invasion d'une autre mégacorporation multiverselle."
+"À celui qui a arrêté l'invasion d'une énième mégacorporation multiverselle."
 
 #: src-en/data/hyperspace.xml.append:2265
 msgid ""
@@ -286,7 +286,7 @@ msgstr "Fin de la Solitude"
 #: src-en/data/hyperspace.xml.append:2268
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_ROBUR\"]/description"
-msgstr "À celui qui a apaisé la souffrance d'un fou belliqueux."
+msgstr "À celui qui a apaisé les souffrances d'un fou belliqueux."
 
 #: src-en/data/hyperspace.xml.append:2275
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_GEM\"]/name"
@@ -307,13 +307,13 @@ msgstr "[DESTRUCTION] [ERREUR]"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_REAPER\"]/description"
 msgstr ""
-"À celui qui a arrêté la production incontrôlée de terribles armes "
-"biologiques."
+"À celui qui a stoppé la production incontrôlée d'armes biologiques "
+"terribles."
 
 #: src-en/data/hyperspace.xml.append:2291
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_DREAMSEEKER\"]/name"
-msgstr "Rêves Inaboutis"
+msgstr "Rêves Inassouvis"
 
 #: src-en/data/hyperspace.xml.append:2292
 msgid ""
@@ -323,24 +323,24 @@ msgstr "À celui qui n'a pas permis la propagation de dogmes fanatiques."
 #: src-en/data/hyperspace.xml.append:2300
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[3]/@text"
-msgstr "Musique de la Genèse Eschaton"
+msgstr "Musique de la Genèse d'Eschaton"
 
 #: src-en/data/hyperspace.xml.append:2302
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_CONTINUITY_VIOLATOR_MUSIC\"]/name"
-msgstr "(Vous êtes) Violateur de la Continuité"
+msgstr "(Vous êtes) Violateur de Continuité"
 
 #: src-en/data/hyperspace.xml.append:2303
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_CONTINUITY_VIOLATOR_MUSIC\"]/description"
 msgstr ""
-"Liez votre destin et le destin de cet amas d'univers aux activités des "
+"Liez votre destin et celui de cet amas d'univers aux activités des "
 "Chercheurs de Miracles."
 
 #: src-en/data/hyperspace.xml.append:2310
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_MUSIC\"]/name"
-msgstr "Leur Regard Perspicace"
+msgstr "Leur Regard Perceptif"
 
 #: src-en/data/hyperspace.xml.append:2311
 msgid ""
@@ -358,7 +358,7 @@ msgstr "Machinations du Bouffon"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_SPACE_RIFT_MUSIC\"]/description"
 msgstr ""
-"Aidez à fermer la faille spatio-temporelle qui causait des problèmes aux "
+"Aidez à refermer la faille spatio-temporelle qui causait des problèmes aux "
 "Chercheurs de Miracles."
 
 #: src-en/data/hyperspace.xml.append:2320
@@ -398,7 +398,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:2340
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_MIRRORED\"]/name"
-msgstr "Son Amour Suffirait pour le Monde Entier"
+msgstr "Son amour suffirait au monde entier"
 
 #: src-en/data/hyperspace.xml.append:2341
 msgid ""
@@ -423,13 +423,13 @@ msgstr "Bhavachakra, la Roue de la Vie"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_THE_WHEEL\"]/description"
 msgstr ""
-"Découvrez que le Fil Blanc de l'Étendue a été perdu une fois de plus. N'y "
-"a-t-il pas de fin à leur tourment ?"
+"Découvrez que le Fil Blanc de l'Étendue a été perdu une fois de plus. Leurs "
+"tourments n'auront-ils jamais de fin ?"
 
 #: src-en/data/hyperspace.xml.append:2353
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_THE_WHEEL\"]/secretDescription"
-msgstr "N'y a-t-il pas de fin à leur tourment ?"
+msgstr "Leurs tourments n'auront-ils jamais de fin ?"
 
 #: src-en/data/hyperspace.xml.append:2368
 msgid ""
@@ -439,12 +439,12 @@ msgstr "Tout le monde est bien nourri !"
 #: src-en/data/hyperspace.xml.append:2369
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WELL_FED_TERMITES\"]/description"
-msgstr "Nourrissez les termites à satiété à vos propres frais."
+msgstr "Nourrissez les termites à leur faim à vos propres frais."
 
 #: src-en/data/hyperspace.xml.append:2370
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WELL_FED_TERMITES\"]/secretDescription"
-msgstr "Nourrissez certains insectes à satiété à vos propres frais."
+msgstr "Nourrissez certains insectes à leur faim à vos propres frais."
 
 #: src-en/data/hyperspace.xml.append:2377
 msgid ""
@@ -455,7 +455,7 @@ msgstr "Leur Nouvel Ami"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_METAREP_5\"]/description"
 msgstr ""
-"Obtenez le niveau de méta-réputation actuel maximal des Chercheurs de "
+"Obtenez le niveau maximum actuel de méta-réputation des Chercheurs de "
 "Miracles."
 
 #: src-en/data/hyperspace.xml.append:2385
@@ -466,7 +466,7 @@ msgstr "Assistant aux Machinations du Bouffon"
 #: src-en/data/hyperspace.xml.append:2386
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_HELPED_JESTER_5_TIMES\"]/description"
-msgstr "Aidez Jester au moins 5 fois."
+msgstr "Aidez le Bouffon au moins 5 fois."
 
 #: src-en/data/hyperspace.xml.append:2393
 msgid ""
@@ -477,15 +477,15 @@ msgstr "J'en ai assez"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_PANIC_BUTTON\"]/description"
 msgstr ""
-"Essayez d'activer le bouton panique à la station des Chercheurs de Miracles,"
-" puis vendez-le à la Corporation."
+"Essayez d'activer le bouton panique de la station des Chercheurs de "
+"Miracles, puis vendez-le à la Corporation."
 
 #: src-en/data/hyperspace.xml.append:2395
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_PANIC_BUTTON\"]/secretDescription"
 msgstr ""
-"Activez un terrible bouton à la station des Chercheurs de Miracles et gérez "
-"les conséquences."
+"Activez un bouton terrible dans la station des Chercheurs de Miracles et "
+"faites face aux conséquences."
 
 #: src-en/data/hyperspace.xml.append:2402
 msgid ""
@@ -501,20 +501,20 @@ msgstr "Livrez le gnome à Hail et recevez une récompense pour votre offrande."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_GNOME\"]/secretDescription"
 msgstr ""
-"Contemplez comment l'un des Chercheurs de Miracles se débarrasse d'un objet "
-"de pur chaos."
+"Observez comment l'un des Chercheurs de Miracles se débarrasse d'un objet de"
+" pur chaos."
 
 #: src-en/data/hyperspace.xml.append:2411
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_CORPORATE_REFUSE\"]/name"
-msgstr "\" Quand nous apprendrons à mieux nous connaître \""
+msgstr "\"Quand nous apprendrons à mieux nous connaître\""
 
 #: src-en/data/hyperspace.xml.append:2412
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_CORPORATE_REFUSE\"]/description"
 msgstr ""
 "Posez quelques questions supplémentaires à la Corporation lors d'une des "
-"commandes, et ne recevez pas toutes les réponses."
+"commandes, sans recevoir toutes les réponses."
 
 #: src-en/data/hyperspace.xml.append:2413
 msgid ""
@@ -531,18 +531,20 @@ msgstr "Invincible"
 #: src-en/data/hyperspace.xml.append:2421
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_IMPENETRABLE_ARMOR_UPGRADED\"]/description"
-msgstr "Améliorez avec succès le Blindage Impénétrable à son niveau final."
+msgstr ""
+"Réussissez à améliorer le Blindage Impénétrable jusqu'à son niveau final."
 
 #: src-en/data/hyperspace.xml.append:2428
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_NEOSTAR_LOYALTY\"]/name"
-msgstr "Employé du mois junior"
+msgstr "Employé Junior du Mois"
 
 #: src-en/data/hyperspace.xml.append:2429
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_NEOSTAR_LOYALTY\"]/description"
 msgstr ""
-"Atteignez des sommets inégalés dans une autre mégacorporation du Multivers."
+"Atteignez des sommets inégalables dans une autre mégacorporation du "
+"Multivers."
 
 #: src-en/data/hyperspace.xml.append:2436
 msgid ""
@@ -556,7 +558,7 @@ msgstr "Devenez un vaisseau civil à part entière."
 
 #: src-en/data/hyperspace.xml.append:2444
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_EG_PUZZLE_1\"]/name"
-msgstr "\" Bonne nuit, Créateur \""
+msgstr "\"Bonne nuit, Créateur\""
 
 #: src-en/data/hyperspace.xml.append:2445
 msgid ""

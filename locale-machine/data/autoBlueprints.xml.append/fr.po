@@ -28,7 +28,7 @@ msgstr ""
 #: src-en/data/autoBlueprints.xml.append:119
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_GOLIATH\"]/class"
-msgstr "Vaisseau anomal : Goliath I"
+msgstr "Vaisseau Anormal : Goliath I"
 
 #: src-en/data/autoBlueprints.xml.append:146
 msgid ""
@@ -43,12 +43,12 @@ msgstr "Église du Rêveur : Chercheur de Rêve"
 #: src-en/data/autoBlueprints.xml.append:218
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_ROBUR\"]/class"
-msgstr "Robur le fou"
+msgstr "Robur le Fou"
 
 #: src-en/data/autoBlueprints.xml.append:252
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_REAPER\"]/class"
-msgstr "Faucheur-Empoisonneur d'orge"
+msgstr "Faucheur-Empoisonneur d'Orge"
 
 #: src-en/data/autoBlueprints.xml.append:286
 msgid ""

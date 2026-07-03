@@ -8,17 +8,17 @@ msgstr ""
 #: src-en/data/events_special_salvaging.xml.append:6
 msgid ""
 "data/events_special_salvaging.xml.append$//textList[@name=\"EG_MIRRORED_WARNING_TEXT\"]/text"
-msgstr "Mirrored vous avertit. Devriez-vous l'écouter ?"
+msgstr "L'Irréel vous met en garde. Devriez-vous l'écouter ?"
 
 #: src-en/data/events_special_salvaging.xml.append:10
 msgid ""
 "data/events_special_salvaging.xml.append$//textList[@name=\"EG_MIRRORED_WARNING_2_TEXT\"]/text"
 msgstr ""
-"\"Je sens un danger devant. Laissez-moi vous aider à explorer la zone "
-"environnante et à chercher quelque chose d'utile.\" Vous ordonnez à vos "
-"membres d'équipage de rester en attente, et Mirrored disparaît. Quelques "
-"minutes plus tard, elle revient avec de la ferraille qu'elle a réussi à "
-"trouver et à transporter elle-même."
+"\" Je sens un danger devant. Laissez-moi vous aider à explorer la zone "
+"environnante et à chercher quelque chose d'utile. \" Vous instruisez les "
+"membres de votre équipage de se mettre en retrait, et l'Irréel disparaît. "
+"Quelques minutes plus tard, elle revient avec quelques ferrailles qu'elle a "
+"réussi à trouver et à transporter elle-même."
 
 #: src-en/data/events_special_salvaging.xml.append:20
 msgid ""

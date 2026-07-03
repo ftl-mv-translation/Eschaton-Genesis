@@ -13,12 +13,12 @@ msgstr "Voir les avantages d'un vaisseau civil."
 #: src-en/data/events_special_main.xml.append:20
 msgid ""
 "data/events_special_main.xml.append$//eventButton[@name=\"EG_UI_CIVILIAN_BUTTON\"]/inactiveTooltip"
-msgstr "Les avantages du vaisseau civil ne sont pas disponibles actuellement."
+msgstr "Les avantages du vaisseau civil ne sont pas actuellement disponibles."
 
 #: src-en/data/events_special_main.xml.append:39
 msgid ""
 "data/events_special_main.xml.append$//eventButton[@name=\"EG_UI_NEOSTAR_BUTTON\"]/tooltip"
-msgstr "Menu Formulaire Neostar (R)."
+msgstr "Menu du Formulaire Neostar (R)."
 
 #: src-en/data/events_special_main.xml.append:40
 msgid ""
@@ -30,7 +30,7 @@ msgid ""
 "data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/text"
 msgstr ""
 "Que voulez-vous faire sur votre vaisseau civil ? Chaque action prend un "
-"saut. Vous ne pouvez utiliser ces actions qu'une fois par balise."
+"saut. Vous ne pouvez utiliser ces actions qu'une seule fois par balise."
 
 #: src-en/data/events_special_main.xml.append:54
 msgid ""
@@ -43,15 +43,22 @@ msgid ""
 "data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"second_voice_civilian\""
 " and @lvl=\"0 \"]/event/text"
 msgstr ""
-"Vous passerez par le processus d'assignation et de confirmation du statut civil de votre vaisseau. Cela prend un certain temps, mais au moins vos intentions pacifiques seront beaucoup plus faciles à démontrer et à prouver. Ce statut ne vous restreint en aucune façon.\n"
+"Vous suivrez le processus d'attribution et de confirmation du statut civil de votre vaisseau. Cela prend un certain temps, mais au moins vos intentions pacifiques seront beaucoup plus faciles à démontrer et à prouver. Ce statut ne vous restreint en aucune façon.\n"
 "\n"
 "[MAUVAISE RÉPUTATION DIMINUÉE X2 - GÉNÉRAL]\n"
+"\n"
 "[MAUVAISE RÉPUTATION DIMINUÉE X2 - UNION]\n"
+"\n"
 "[MAUVAISE RÉPUTATION DIMINUÉE - HARMONIE]\n"
+"\n"
 "[MAUVAISE RÉPUTATION DIMINUÉE - MINISTÈRE]\n"
+"\n"
 "[MAUVAISE RÉPUTATION DIMINUÉE - CONGRÉGATION]\n"
+"\n"
 "[MAUVAISE RÉPUTATION DIMINUÉE - MANTIS LIBRES]\n"
+"\n"
 "[MAUVAISE RÉPUTATION DIMINUÉE - GÉNIOCRATIE]\n"
+"\n"
 "[MAUVAISE RÉPUTATION DIMINUÉE - EXILÉS]"
 
 #: src-en/data/events_special_main.xml.append:93
@@ -163,7 +170,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:318
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_NO\"]/text"
-msgstr "Vous ne trouvez rien aux alentours. Le temps est perdu."
+msgstr "Vous ne trouvez rien aux alentours. Du temps est perdu."
 
 #: src-en/data/events_special_main.xml.append:322
 msgid ""
@@ -191,8 +198,8 @@ msgid ""
 msgstr ""
 "Pendant que vous essayiez de trouver quelqu'un à proximité, les capteurs ont"
 " détecté la téléportation instantanée de vos ressources depuis votre soute. "
-"Quelqu'un vous avait volé et avait instantanément disparu, ne laissant "
-"aucune trace."
+"Quelqu'un vous a volé et a instantanément disparu, ne laissant aucune trace "
+"derrière lui."
 
 #: src-en/data/events_special_main.xml.append:381
 msgid ""
@@ -203,8 +210,8 @@ msgstr ""
 msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_RESOURCES_TEXT\"]/text[1]"
 msgstr ""
-"Un autre vaisseau à l'esprit pacifique passe devant vous. Vous lui expliquez"
-" que vous manquez légèrement de ressources, et il accepte de vous aider un "
+"Un autre vaisseau à l'esprit pacifique vous dépasse. Vous lui expliquez que "
+"vous êtes légèrement à court de ressources, et il accepte de vous aider un "
 "peu."
 
 #: src-en/data/events_special_main.xml.append:388
@@ -212,8 +219,8 @@ msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_RESOURCES_TEXT\"]/text[2]"
 msgstr ""
 "Vous contactez le vaisseau qui passe. Son capitaine accepte l'appel, et vous"
-" lui expliquez que vous manquez légèrement de ressources. Ils acceptent de "
-"vous aider un peu."
+" lui expliquez que vous êtes légèrement à court de ressources. Ils acceptent"
+" de vous aider un peu."
 
 #: src-en/data/events_special_main.xml.append:389
 msgid ""
@@ -228,13 +235,13 @@ msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_BARTER_TEXT\"]/text[1]"
 msgstr ""
 "Un vaisseau endommagé par des pirates vole près de vous. Vous le contactez "
-"et lui proposez un troc."
+"et proposez un troc."
 
 #: src-en/data/events_special_main.xml.append:394
 msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_BARTER_TEXT\"]/text[2]"
 msgstr ""
-"D'autres civils passent devant vous. Ils manquent de certaines ressources et"
+"D'autres civils volent près de vous. Ils manquent de certaines ressources et"
 " acceptent de troquer."
 
 #: src-en/data/events_special_main.xml.append:395
@@ -255,7 +262,7 @@ msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_TEXT\"]/text[2]"
 msgstr ""
 "Non loin de cette balise, vous trouvez une petite station commerciale "
-"mobile. Vous vous y amarrez sans aucun problème."
+"mobile. Vous vous amarrez avec elle sans aucun problème."
 
 #: src-en/data/events_special_main.xml.append:401
 msgid ""
@@ -285,14 +292,14 @@ msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_REPAIR_TEXT\"]/text[3]"
 msgstr ""
 "Il y a un avant-poste sur la planète la plus proche. Ses habitants acceptent"
-" de commercer avec vous et de fournir des réparations gratuites."
+" de commercer avec vous et fournissent des réparations gratuites."
 
 #: src-en/data/events_special_main.xml.append:410
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_ASTEROIDS\"]/text"
 msgstr ""
-"Vous avez exploré la zone environnante sans succès et êtes tombé dans un "
-"champ d'astéroïdes. Il semble que la chance ne soit pas de votre côté."
+"Vous avez exploré la zone environnante en vain et êtes tombé sur un champ "
+"d'astéroïdes. Il semble que la chance ne soit pas de votre côté."
 
 #: src-en/data/events_special_main.xml.append:415
 msgid ""

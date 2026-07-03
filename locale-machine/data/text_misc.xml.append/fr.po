@@ -39,7 +39,7 @@ msgstr "MIRACLE 6419 [!]"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"eg_eatery\"]"
-msgstr "CAFÉTÉRIA [!]"
+msgstr "CANTINE [!]"
 
 #: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"eg_erudite_drone\"]"
@@ -60,5 +60,5 @@ msgstr ""
 msgid "data/text_misc.xml.append$//text[@name=\"tip_storage_neostar\"]"
 msgstr ""
 "La Caisse Neostar (R) ne peut pas être utilisée comme arme et il est "
-"préférable de la garder dans votre soute jusqu'à ce que vous la livriez au "
-"destinataire."
+"préférable de la conserver dans votre soute jusqu'à ce que vous la livriez "
+"au destinataire."
