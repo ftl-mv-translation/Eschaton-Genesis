@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-18 10:37+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"PO-Revision-Date: 2026-10-30 05:36+0000\n"
+"Last-Translator: Elderjiang710 <1404232326@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/datahyperspace-xml-append/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/hyperspace.xml.append:321
 msgid ""
@@ -483,7 +483,7 @@ msgstr "见证一位奇迹追寻者如何处置纯粹混沌之物。"
 #: src-en/data/hyperspace.xml.append:2411
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_CORPORATE_REFUSE\"]/name"
-msgstr "\"待我们更熟络些时\""
+msgstr "“待我们更熟络些时”"
 
 #: src-en/data/hyperspace.xml.append:2412
 msgid ""
@@ -503,7 +503,7 @@ msgstr "无敌"
 #: src-en/data/hyperspace.xml.append:2421
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_IMPENETRABLE_ARMOR_UPGRADED\"]/description"
-msgstr "成功将\"坚不可摧装甲\"升级至最终阶段。"
+msgstr "成功将“坚不可摧装甲”升级至最终阶段。"
 
 #: src-en/data/hyperspace.xml.append:2428
 msgid ""
@@ -527,7 +527,7 @@ msgstr "成为正规民用飞船。"
 
 #: src-en/data/hyperspace.xml.append:2444
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_EG_PUZZLE_1\"]/name"
-msgstr "\"晚安，创造者\""
+msgstr "“晚安，创造者”"
 
 #: src-en/data/hyperspace.xml.append:2445
 msgid ""
