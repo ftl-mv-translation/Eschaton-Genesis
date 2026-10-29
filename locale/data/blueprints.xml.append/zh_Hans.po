@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-18 10:37+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"PO-Revision-Date: 2026-10-30 05:36+0000\n"
+"Last-Translator: Elderjiang710 <1404232326@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/blueprints.xml.append:6
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/title"
@@ -78,11 +78,11 @@ msgstr "平民"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SECOND_VOICE_CIVIL\"]/desc"
 msgstr ""
-"您的飞船是一艘\"第二之声\"民用级飞船。与所有民用飞船一样，它的舰体小巧且存在"
-"诸多显著局限，但也带来了独特的战略优势。您可以在管理菜单中将飞船注册为民事用"
-"途，从而降低整体恶名值与多数和平派系的敌对度，并解锁该菜单的进阶功能。得益于"
-"民用船卓越的机动性与航速，您能从大多数资源点回收额外25%的废料。紧凑的舰体设计"
-"更使武器充能效率提升10%，护盾恢复速度加快15%。"
+"您的飞船是一艘“第二之声”民用级飞船。与所有民用飞船一样，它的舰体小巧且存在诸"
+"多显著局限，但也带来了独特的战略优势。您可以在管理菜单中将飞船注册为民事用途"
+"，从而降低整体恶名值与多数和平派系的敌对度，并解锁该菜单的进阶功能。得益于民"
+"用船卓越的机动性与航速，您能从大多数资源点回收额外25%的废料。紧凑的舰体设计更"
+"使武器充能效率提升10%，护盾恢复速度加快15%。"
 
 #: src-en/data/blueprints.xml.append:61
 msgid ""
@@ -810,12 +810,12 @@ msgstr "无人机激光"
 #: src-en/data/blueprints.xml.append:822
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/title"
-msgstr "\"视线\""
+msgstr "“视线”"
 
 #: src-en/data/blueprints.xml.append:823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/short"
-msgstr "\"视线\""
+msgstr "“视线”"
 
 #: src-en/data/blueprints.xml.append:824
 msgid ""
@@ -832,12 +832,12 @@ msgstr "[基础冷却时间：14] 这款光束武器可穿透所有护盾，对�
 #: src-en/data/blueprints.xml.append:853
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/title"
-msgstr "\"劝服\""
+msgstr "“劝服”"
 
 #: src-en/data/blueprints.xml.append:854
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/short"
-msgstr "\"劝服\""
+msgstr "“劝服”"
 
 #: src-en/data/blueprints.xml.append:855
 msgid ""
@@ -852,12 +852,12 @@ msgstr "[基础冷却时间：11] 此光束武器穿透所有护盾，造成1点
 #: src-en/data/blueprints.xml.append:884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/title"
-msgstr "\"劝服\""
+msgstr "“劝服”"
 
 #: src-en/data/blueprints.xml.append:885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/short"
-msgstr "\"劝服\""
+msgstr "“劝服”"
 
 #: src-en/data/blueprints.xml.append:887
 msgid ""
@@ -1141,7 +1141,8 @@ msgstr "终末体"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST\"]/desc"
 msgstr ""
-"末世学家穿梭于各个宇宙，研究文明的\"世界终结\"，并遵循不干涉政策。他们仅对此宇宙产生兴趣，是因为叛军的胜利对大多数智慧种族而言同样是一种世界终结。"
+"末世学家穿梭于各个宇宙，研究文明的“世界终结”，并遵循不干涉政策。他们仅对此宇"
+"宙产生兴趣，是因为叛军的胜利对大多数智慧种族而言同样是一种世界终结。"
 
 #: src-en/data/blueprints.xml.append:1598
 msgid ""
@@ -1174,7 +1175,7 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/desc"
 msgstr ""
 "隐士在一处边陲世界中寻得此舰。\n"
-"其数据库中除提及前船员所崇拜的神明——月神\"琉娜\"与日神\"索拉娜\"——外空无一物。\n"
+"其数据库中除提及前船员所崇拜的神明——月神“琉娜”与日神“索拉娜”——外空无一物。\n"
 "舰上图谱指向银河彼端的一颗行星，隐士毫无犹豫，启程奔赴这最后的旅程。"
 
 #: src-en/data/blueprints.xml.append:1739
@@ -1257,7 +1258,7 @@ msgstr "怯蓝"
 #: src-en/data/blueprints.xml.append:1953
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/unlock"
-msgstr "为\"奇迹1111·谢谢你\"完成面向寻秘者的订单，并探索至臻感激的终极形态。"
+msgstr "为“奇迹1111·谢谢你”完成面向寻秘者的订单，并探索至臻感激的终极形态。"
 
 #: src-en/data/blueprints.xml.append:1954
 msgid ""
@@ -1305,7 +1306,9 @@ msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/desc"
 msgstr ""
-"舰船升级完成一段时间后，其神秘主人现身。她自称是\"奇迹追寻者\"组织成员，并解释这艘船是在她为寻找\"奇迹\"而远征时失联的。当得知此舰能阻止这个宇宙中的叛乱后，她同意伸出援手。"
+"舰船升级完成一段时间后，其神秘主人现身。她自称是“奇迹追寻者”组织成员，并解释"
+"这艘船是在她为寻找“奇迹”而远征时失联的。当得知此舰能阻止这个宇宙中的叛乱后，"
+"她同意伸出援手。"
 
 #: src-en/data/blueprints.xml.append:2179
 msgid ""
@@ -1341,13 +1344,17 @@ msgstr "大麦号"
 #: src-en/data/blueprints.xml.append:2256
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/unlock"
-msgstr "在时空异常点附近遭遇并击败\"丰收\"的机械智能舰——该坐标将在你赢得奇迹追寻者的尊重后由其提供。"
+msgstr ""
+"在时空异常点附近遭遇并击败“丰收”的机械智能舰——该坐标将在你赢得奇迹追寻者的尊"
+"重后由其提供。"
 
 #: src-en/data/blueprints.xml.append:2257
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/desc"
 msgstr ""
-"此舰原属\"收割者\"——即\"丰收\"的机械智能意识体。它们曾致力于培育大麦，将整个恒星系转化为农业乌托邦。后因该舰逐渐失控并开始生成剧毒生物圈，收割者将其遗弃。一株兰花发现了它，并决意唤醒其潜在价值。"
+"此舰原属“收割者”——即“丰收”的机械智能意识体。它们曾致力于培育大麦，将整个恒星"
+"系转化为农业乌托邦。后因该舰逐渐失控并开始生成剧毒生物圈，收割者将其遗弃。一"
+"株兰花发现了它，并决意唤醒其潜在价值。"
 
 #: src-en/data/blueprints.xml.append:2332
 msgid ""
@@ -1389,7 +1396,9 @@ msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/desc"
 msgstr ""
-"收割者舰船的改造项目由\"采集会\"出资——出乎意料的是，血兰邦也提供了支持。如今它已被转化为一座培育多种植物的空中花园。该舰曾一度对外开放参观，并赚取了大量废料资源，但出于安全考虑，其武器系统的最大效能已被调低。"
+"收割者舰船的改造项目由“采集会”出资——出乎意料的是，血兰邦也提供了支持。如今它"
+"已被转化为一座培育多种植物的空中花园。该舰曾一度对外开放参观，并赚取了大量废"
+"料资源，但出于安全考虑，其武器系统的最大效能已被调低。"
 
 #: src-en/data/blueprints.xml.append:2493
 msgid ""
@@ -1404,7 +1413,7 @@ msgstr "歌利亚 I"
 #: src-en/data/blueprints.xml.append:2495
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/unlock"
-msgstr "为\"奇迹0900·苍穹白绫\"完成面向奇迹追寻者的订单，并开启他们在此宇宙的篇章。"
+msgstr "为“奇迹0900·苍穹白绫”完成面向奇迹追寻者的订单，并开启他们在此宇宙的篇章。"
 
 #: src-en/data/blueprints.xml.append:2496
 msgid ""
@@ -1488,7 +1497,7 @@ msgstr "圣白蚁舰"
 #: src-en/data/blueprints.xml.append:2766
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/unlock"
-msgstr "为\"奇迹9721·虫神断角\"完成面向奇迹追寻者的订单，并安抚那些哀悼神明逝去的生灵。"
+msgstr "为“奇迹9721·虫神断角”完成面向奇迹追寻者的订单，并安抚那些哀悼神明逝去的生灵。"
 
 #: src-en/data/blueprints.xml.append:2767
 msgid ""
@@ -1557,7 +1566,9 @@ msgstr "获取此舰的方法将于遥远的未来加入游戏！"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/desc"
 msgstr ""
-"\"探迹者\"——一座自主射电基站，航行于深空之中，搜寻着值得其神秘创造者注目的奇异信号。它搭载升级版感应系统，专为运用离子武器与射线而设计。在旅程的尽头，究竟有何物在等待着它？"
+"“探迹者”——一座自主射电基站，航行于深空之中，搜寻着值得其神秘创造者注目的奇异"
+"信号。它搭载升级版感应系统，专为运用离子武器与射线而设计。在旅程的尽头，究竟"
+"有何物在等待着它？"
 
 #: src-en/data/blueprints.xml.append:3061
 msgid ""
@@ -1578,7 +1589,9 @@ msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/desc"
 msgstr ""
-"此版本的\"探迹者\"专为水下浸没环境设计，可在极端压力下进行信号侦测，因而拥有更高的耐久度，并使舰体免疫舱体破裂。然而，它不再支持预装的舱门系统与崩解力场。在世界之洋的深渊下，究竟有何物在等待着它？"
+"此版本的“探迹者”专为水下浸没环境设计，可在极端压力下进行信号侦测，因而拥有更"
+"高的耐久度，并使舰体免疫舱体破裂。然而，它不再支持预装的舱门系统与崩解力场。"
+"在世界之洋的深渊下，究竟有何物在等待着它？"
 
 #: src-en/data/blueprints.xml.append:3134
 msgid ""
@@ -1616,7 +1629,7 @@ msgstr "纯真守卫"
 #: src-en/data/blueprints.xml.append:3209
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/unlock"
-msgstr "为\"奇迹3385·暖意\"完成面向奇迹追寻者的订单，并守护无辜之人。"
+msgstr "为“奇迹3385·暖意”完成面向奇迹追寻者的订单，并守护无辜之人。"
 
 #: src-en/data/blueprints.xml.append:3210
 msgid ""
@@ -1679,7 +1692,9 @@ msgstr "具现体"
 #: src-en/data/blueprints.xml.append:3440
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/unlock"
-msgstr "在时空异常点附近遭遇并击败疯子\"磐石人\"——该坐标将在你赢得奇迹追寻者的尊重后由其提供。"
+msgstr ""
+"在时空异常点附近遭遇并击败疯子“磐石人”——该坐标将在你赢得奇迹追寻者的尊重后由"
+"其提供。"
 
 #: src-en/data/blueprints.xml.append:3441
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/desc"
@@ -1739,7 +1754,8 @@ msgstr "舒俱来"
 #: src-en/data/blueprints.xml.append:3653
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/unlock"
 msgstr ""
-"在时空异常点附近遭遇并击败异常的\"舒俱来舰\"——该坐标将在你赢得奇迹追寻者的尊重后由其提供；使用B型船抵达第五星区，或以C型船通关游戏，即可解锁此舰。"
+"在时空异常点附近遭遇并击败异常的“舒俱来舰”——该坐标将在你赢得奇迹追寻者的尊重"
+"后由其提供；使用B型船抵达第五星区，或以C型船通关游戏，即可解锁此舰。"
 
 #: src-en/data/blueprints.xml.append:3654
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/desc"
@@ -1759,7 +1775,8 @@ msgstr "海蓝"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/unlock"
 msgstr ""
-"在时空异常点附近遭遇并击败异常的\"海蓝宝石舰\"——该坐标将在你赢得奇迹追寻者的尊重后由其提供；使用C型船抵达第五星区，或以A型船通关游戏，即可解锁此舰。"
+"在时空异常点附近遭遇并击败异常的“海蓝宝石舰”——该坐标将在你赢得奇迹追寻者的尊"
+"重后由其提供；使用C型船抵达第五星区，或以A型船通关游戏，即可解锁此舰。"
 
 #: src-en/data/blueprints.xml.append:3733
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/desc"
@@ -1779,7 +1796,8 @@ msgstr "红玛瑙号"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/unlock"
 msgstr ""
-"在时空异常点附近遭遇并击败异常的\"玛瑙舰\"——该坐标将在你赢得奇迹追寻者的尊重后由其提供；使用A型船抵达第五星区，或以B型船通关游戏，即可解锁此舰。"
+"在时空异常点附近遭遇并击败异常的“玛瑙舰”——该坐标将在你赢得奇迹追寻者的尊重后"
+"由其提供；使用A型船抵达第五星区，或以B型船通关游戏，即可解锁此舰。"
 
 #: src-en/data/blueprints.xml.append:3811
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/desc"
@@ -1799,7 +1817,9 @@ msgstr "允诺恩典"
 #: src-en/data/blueprints.xml.append:3889
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/unlock"
-msgstr "在时空异常点附近遭遇并击败\"万愿织梦教团\"的狂信徒——该坐标将在你赢得奇迹追寻者的尊重后由其提供。"
+msgstr ""
+"在时空异常点附近遭遇并击败“万愿织梦教团”的狂信徒——该坐标将在你赢得奇迹追寻者"
+"的尊重后由其提供。"
 
 #: src-en/data/blueprints.xml.append:3890
 msgid ""
@@ -1825,7 +1845,9 @@ msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
 #: src-en/data/blueprints.xml.append:3960
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/desc"
-msgstr "由于\"万愿织梦教团\"的这批代表秉持着独特的和平主义信条，此舰无法有效应对登舰作战。作为补偿，它拥有更强的初始武装，且开局即配备隐形系统。"
+msgstr ""
+"由于“万愿织梦教团”的这批代表秉持着独特的和平主义信条，此舰无法有效应对登舰作"
+"战。作为补偿，它拥有更强的初始武装，且开局即配备隐形系统。"
 
 #: src-en/data/blueprints.xml.append:4031
 msgid ""
@@ -1846,7 +1868,9 @@ msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/desc"
 msgstr ""
-"此舰船员秉持着对\"万愿织梦教团\"运动的另类且更激进的理念，使其蜕变为一个异端教派。他们允许为祭祀女神举行血腥仪式，而女神别无选择，只能对其残存信徒加以抚慰——只求不被永远遗忘。"
+"此舰船员秉持着对“万愿织梦教团”运动的另类且更激进的理念，使其蜕变为一个异端教"
+"派。他们允许为祭祀女神举行血腥仪式，而女神别无选择，只能对其残存信徒加以抚慰—"
+"—只求不被永远遗忘。"
 
 #: src-en/data/blueprints.xml.append:4107
 msgid ""
@@ -1867,8 +1891,9 @@ msgstr "这艘第二之声飞船主要作为民用船只设计，旨在中央联
 #: src-en/data/blueprints.xml.append:4110
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/unlock"
-msgstr "您需要为\"奇迹追寻者\"组织完成一份\"奇迹7302号指令：联盟协议\"，并展现您在特"
-"定领域的卓越学识。"
+msgstr ""
+"您需要为\"奇迹追寻者\"组织完成一份“奇迹7302号指令：联盟协议”，并展现您在特定"
+"领域的卓越学识。"
 
 #: src-en/data/blueprints.xml.append:4183
 msgid ""
@@ -1932,8 +1957,9 @@ msgstr "新星公司拥有的标准超时空货运飞船。借助忠诚计划，
 #: src-en/data/blueprints.xml.append:4340
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/unlock"
-msgstr "完成奇迹追寻者组织的\"奇迹6419号指令：新星表格\"订单，阻止又一多元宇宙巨头企"
-"业入侵本宇宙星区。"
+msgstr ""
+"完成奇迹追寻者组织的“奇迹6419号指令：新星表格”订单，阻止又一多元宇宙巨头企业"
+"入侵本宇宙星区。"
 
 #: src-en/data/blueprints.xml.append:4413
 msgid ""
@@ -2044,7 +2070,9 @@ msgstr "不占用船员名额。请勿解雇他"
 
 #: src-en/data/blueprints.xml.append:4598
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/desc"
-msgstr "此类近乎拥有智慧的\"灵思白蚁\"近期才在此宇宙中出现。它们尚未完全立足，仍在为其新巢群寻觅领地。"
+msgstr ""
+"此类近乎拥有智慧的“灵思白蚁”近期才在此宇宙中出现。它们尚未完全立足，仍在为其"
+"新巢群寻觅领地。"
 
 #: src-en/data/blueprints.xml.append:4599
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/title"
@@ -2072,7 +2100,7 @@ msgstr "承受的环境伤害提升至1.3倍。"
 #: src-en/data/blueprints.xml.append:4608
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[4]"
-msgstr "因长有\"爪子\"而无法修复系统或灭火"
+msgstr "因长有“爪子”而无法修复系统或灭火"
 
 #: src-en/data/blueprints.xml.append:4612
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/desc"
@@ -2114,7 +2142,8 @@ msgstr "凭借不可动摇的求生意志，生命值提升至120点。所受环
 #: src-en/data/blueprints.xml.append:4627
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/desc"
 msgstr ""
-"一位有知觉的异常实体，新近任命的\"奇迹追寻者\"成员。她探索此宇宙，只为目睹一个无界的世界。\n"
+"一位有知觉的异常实体，新近任命的“奇迹追寻者”成员。她探索此宇宙，只为目睹一个"
+"无界的世界。\n"
 "\t\n"
 "\t继承幻灵特性：不受窒息伤害影响，具备无视舱门属性"
 
