@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-18 10:37+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"PO-Revision-Date: 2026-10-30 05:36+0000\n"
+"Last-Translator: Elderjiang710 <1404232326@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/dataevents_sector_laststandxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_laststand.xml.append:9
 msgid ""
@@ -309,9 +309,9 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[16]/event/text"
 msgstr ""
-"视频屏幕上出现了几位联邦和半械族官员，以及位于中央的塔利上将。\"又来一家巨头"
-"企业？只要你们宣称的质量标准能达到我方预期，我们会考虑签订向联邦供应产品的协"
-"议。不过首先...得先解决那艘旗舰。\""
+"视频屏幕上出现了几位联邦和半械族官员，以及位于中央的塔利上将。“又来一家巨头企"
+"业？只要你们宣称的质量标准能达到我方预期，我们会考虑签订向联邦供应产品的协议"
+"。不过首先...得先解决那艘旗舰。”"
 
 #: src-en/data/events_sector_laststand.xml.append:163
 msgid ""
@@ -330,8 +330,8 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[17]/event/text"
 msgstr ""
-"视频屏幕上出现了几位联邦和半械族官员，以及位于中央的塔利上将。\"平民...谁指派"
-"平民去处理叛军事宜的？..看来你们成了我们最后的希望。保重。\""
+"视频屏幕上出现了几位联邦和半械族官员，以及位于中央的塔利上将。“平民...谁指派"
+"平民去处理叛军事宜的？..看来你们成了我们最后的希望。保重。”"
 
 #: src-en/data/events_sector_laststand.xml.append:173
 msgid ""
