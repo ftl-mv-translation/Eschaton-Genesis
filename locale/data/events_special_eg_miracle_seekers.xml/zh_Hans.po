@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-10-30 05:36+0000\n"
-"Last-Translator: YLSH <ylsh123@foxmail.com>\n"
+"Last-Translator: Elderjiang710 <1404232326@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/dataevents_special_eg_miracle_seekersxml/zh_Hans/>"
 "\n"
@@ -352,7 +352,7 @@ msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"MIRACLE_SEEKERS_LOBBY\"]/choice[@req=\"neostar_form_quest_accepted\"]/event/text"
 msgstr ""
 "即将离开空间站时，企业向你打招呼并握了握手。\n"
-"\t\t\t\t\n"
+"\t\t\t”\n"
 "\t\t\t\t“你好，伙伴，很高兴再次见到你！提醒一下，这次任务中，你只需要在我背后"
 "支援，以防任何意外情况。你飞在前面，我就在你后面！”\n"
 "\t\t\t\t\n"
@@ -486,22 +486,22 @@ msgstr ""
 #: src-en/data/events_special_eg_miracle_seekers.xml:340
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"MIRACLE_SEEKERS_TRUE_QUESTS\"]/choice[1]/text"
-msgstr "奇迹0900：苍穹白绫。"
+msgstr "奇迹0900: 苍穹白绫。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:344
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"MIRACLE_SEEKERS_TRUE_QUESTS\"]/choice[2]/text"
-msgstr "奇迹3385：暖意。"
+msgstr "奇迹3385:暖意。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:348
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"MIRACLE_SEEKERS_TRUE_QUESTS\"]/choice[3]/text"
-msgstr "奇迹9721：虫神断角。"
+msgstr "奇迹9721: 虫神断角。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:352
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"MIRACLE_SEEKERS_TRUE_QUESTS\"]/choice[4]/text"
-msgstr "奇迹1111：“谢谢你。”"
+msgstr "奇迹1111: “谢谢你”."
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:356
 msgid ""
@@ -618,7 +618,8 @@ msgstr ""
 "奇迹的计划了吧？”密码员问道\n"
 "\t\t\t\n"
 "\t\t\t“我承认，这是个无聊的选择，”男子几乎打断了密码员的话。“最无聊的选择之一"
-"。说真的，伙伴，你最好换个奇迹。”\t\t\t\n"
+"。说真的，伙伴，你最好换个奇迹。”\n"
+"\t\t\t\n"
 "\t\t\t密码员不赞同地看着企业。看到她的表情，他尴尬地笑了笑，终于决定分享新星"
 "表格下落的细节。\n"
 "\t\t\t\n"
@@ -1006,22 +1007,22 @@ msgstr "返回大厅。"
 #: src-en/data/events_special_eg_miracle_seekers.xml:679
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"MIRACLE_SEEKERS_TRUE_DATABASE\"]/choice[@req=\"miracle_white_thread\"]/text"
-msgstr "奇迹0900：苍穹白绫。"
+msgstr "奇迹0900: 苍穹白绫。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:683
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"MIRACLE_SEEKERS_TRUE_DATABASE\"]/choice[@req=\"miracle_warmth\"]/text"
-msgstr "奇迹3385：暖意。"
+msgstr "奇迹3385:暖意。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:687
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"MIRACLE_SEEKERS_TRUE_DATABASE\"]/choice[@req=\"miracle_horn_of_god\"]/text"
-msgstr "奇迹9721：虫神断角。"
+msgstr "奇迹9721: 虫神断角。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:691
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"MIRACLE_SEEKERS_TRUE_DATABASE\"]/choice[@req=\"miracle_thanks\"]/text"
-msgstr "奇迹1111：“谢谢你。”"
+msgstr "奇迹1111: “谢谢你”."
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:695
 msgid ""
@@ -2737,10 +2738,10 @@ msgstr ""
 "中央联盟公民开放。”\n"
 "\t\t\t\t\t\n"
 "\t\t\t\t\t博学先锋似乎读得并不累，但幸运的是，在你开始犯困之前，文件结束了。“"
-"就是这些。值得一提的是，这份文件上有中央联盟委员会几乎所有主席的签名。 "
-"sprawling、sharp、thin、spiraling、long、tiny、intricate、complex、illegible"
-"、intermittent，还有……一个典型的、无聊的签名，可能是人类的。还有一个签名缺失"
-"了——所以总共是十一个。”\n"
+"就是这些。值得一提的是，这份文件上有中央联盟委员会几乎所有主席的签名。 舒展的"
+"、尖锐的、纤细的、螺旋的、长的、微小的、繁复的、复杂的、难以辨认的、断断续续"
+"的，还有……一个典型的、无聊的签名，可能是人类的。还有一个签名缺失了——所以总共"
+"是十一个。”\n"
 "\t\t\t\t\t\n"
 "\t\t\t\t\t听完这一切，过去了很长时间。这大概是值得的。剩下的就是设法记住所有"
 "要点，然后前往超能族那里。"
@@ -3037,7 +3038,7 @@ msgstr "继续。"
 #: src-en/data/events_special_eg_miracle_seekers.xml:2060
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_1\"]/text"
-msgstr "“联盟协议有多少人签署？”"
+msgstr "“联盟协议有多少人签署？”。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2063
 msgid ""
@@ -3062,7 +3063,7 @@ msgstr "9"
 #: src-en/data/events_special_eg_miracle_seekers.xml:2080
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_2\"]/text"
-msgstr "“根据这份文件的内容，所谓的‘宇宙之心’指的是什么？”"
+msgstr "“根据这份文件的内容，所谓的'宇宙之心'指的是什么？”"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2083
 msgid ""
