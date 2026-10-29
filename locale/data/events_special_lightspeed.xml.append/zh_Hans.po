@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-18 10:37+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"PO-Revision-Date: 2026-10-30 05:36+0000\n"
+"Last-Translator: Elderjiang710 <1404232326@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/dataevents_special_lightspeedxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_lightspeed.xml.append:5
 msgid ""
@@ -28,17 +28,18 @@ msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"EG_NEOSTAR_VARIABLE_ADD_TEXT\"]/text[1]"
 msgstr ""
 "您联系了雇主。视频屏幕上出现了一个肥硕的三眼两栖生物，大概是某位您不知姓名的"
-"主管。\"嗯...贵宇宙的办事处简直麻烦不断。算了，这里还有几单运输委托。\""
+"主管。“嗯...贵宇宙的办事处简直麻烦不断。算了，这里还有几单运输委托。”"
 
 #: src-en/data/events_special_lightspeed.xml.append:23
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"EG_NEOSTAR_VARIABLE_ADD_TEXT\"]/text[2]"
 msgstr ""
-"您联系了雇主。负责新星巨力公司在本宇宙星团拓展项目的主管出现在视频屏幕上。\""
-"需要新的运输委托？没问题，这就发给你，顺便通知有尾乌列尔准备加班。\""
+"您联系了雇主。负责新星巨力公司在本宇宙星团拓展项目的主管出现在视频屏幕上。“需"
+"要新的运输委托？没问题，这就发给你，顺便通知有尾乌列尔准备加班。”"
 
 #: src-en/data/events_special_lightspeed.xml.append:24
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"EG_NEOSTAR_VARIABLE_ADD_TEXT\"]/text[3]"
-msgstr "您联系了雇主。出乎意料的是，乌列尔出现在视频屏幕上。\"哦，需要更多运输委托？"
-"没问题...我这就给你。回见！\""
+msgstr ""
+"您联系了雇主。出乎意料的是，乌列尔出现在视频屏幕上。“哦，需要更多运输委托？没"
+"问题...我这就给你。回见！”"
